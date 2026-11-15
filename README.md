@@ -37,6 +37,7 @@ Los demás documentos son de consulta.
 | 10 | [Operación](10-OPERACION.md) | Soporte, prioridades, cohortes, respaldos |
 | 11 | [Ingeniería](11-INGENIERIA.md) | Cómo trabajamos, roles, estándares y revisión de código |
 | — | [Decisiones](DECISIONES.md) | Registro de lo ya decidido. Si no está ahí, no está decidido |
+| — | [Puntos a mirar](PENDIENTES.md) | Huecos conocidos del diseño, todavía sin corregir |
 
 ---
 
