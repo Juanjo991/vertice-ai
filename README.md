@@ -36,6 +36,12 @@ Los demás documentos son de consulta.
 | 09 | [Roadmap](09-ROADMAP.md) | Versiones, fases y qué se construye cuándo |
 | 10 | [Operación](10-OPERACION.md) | Soporte, prioridades, cohortes, respaldos |
 | 11 | [Ingeniería](11-INGENIERIA.md) | Cómo trabajamos, roles, estándares y revisión de código |
+| 12 | [Preguntas](12-PREGUNTAS.md) | El catálogo de preguntas que el sistema responde: línea base de CRM, diferenciación sobre los números y sobre la memoria |
+| 13 | [Memoria](13-MEMORIA.md) | Cómo el sistema recuerda: cuatro capas, el protocolo de auto-actualización de la doctrina y por qué es un servicio vendible |
+| 14 | [Arquitectura de datos](14-ARQUITECTURA-DE-DATOS.md) | Las diez reglas que hacen que la base aguante años, clientes y una capa de IA encima |
+| 15 | [Núcleo y funciones](15-NUCLEO-Y-FUNCIONES.md) | La jerarquía de las tablas, qué se calcula y qué se guarda, y las veinte funciones que sirven igual al bot y al agente |
+| 16 | [Motor de respuestas](16-MOTOR-DE-RESPUESTAS.md) | Cómo se produce una respuesta, dónde vive, cómo conversan las dos bases y qué hacen los triggers |
+| 17 | [Bot de Telegram](17-BOT-DE-TELEGRAM.md) | El plan del bot: menús, flujos, confirmación, pruebas y fases |
 | — | [Decisiones](DECISIONES.md) | Registro de lo ya decidido. Si no está ahí, no está decidido |
 | — | [Puntos a mirar](PENDIENTES.md) | Huecos conocidos del diseño, todavía sin corregir |
 
